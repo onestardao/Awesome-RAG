@@ -33,6 +33,7 @@ Python is a dominant language for building RAG systems, offering a rich ecosyste
 - **[Unstructured](https://github.com/Unstructured-IO/unstructured)**: Open-source library for extracting structured data from documents (PDFs, Word, HTML, etc.)
 - **[pypandoc](https://github.com/bebraw/pypandoc)**: Python wrapper for Pandoc document converter
 - **[markdown](https://github.com/Python-Markdown/markdown)**: Python implementation of Markdown for processing markdown documents
+- **[markitdown](https://github.com/microsoft/markitdown)**: Python tool from Microsoft for converting files and office documents to Markdown.
 
 #### Vector Databases & Search
 
